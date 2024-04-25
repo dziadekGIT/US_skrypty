@@ -11,6 +11,7 @@ Funkcje:
     - csv_uczelni()
     - csv_filie()
     - csv_uczelnie_niepubliczne()
+<img width="1215" alt="Zrzut ekranu 2024-04-25 o 13 37 58" src="https://github.com/dziadekGIT/US_skrypty/assets/53622677/b326944c-b2c1-4dc0-b8dd-698723781413">
 
 
     # Prosta funkcja podmieniająca separator w CSV tak aby
