@@ -20,6 +20,7 @@ Funkcje:
     # Funkcja czyszcząca wyeksportowany plik CSV z Excela tak
     aby spełnić warunki importu do systemu EZD do wysyłki seryjnej korespondencji.
     - listy_seryjne()
+<img width="990" alt="Zrzut ekranu 2024-04-25 o 13 36 08" src="https://github.com/dziadekGIT/US_skrypty/assets/53622677/cd88cd5f-9a31-4929-a570-faf1108f7436">
 
 
     # Funkcja zliczająca pdfy i docx w foloderach, oraz ilość stron aby umożliwić
