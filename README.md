@@ -21,9 +21,11 @@ Funkcje:
     aby spełnić warunki importu do systemu EZD do wysyłki seryjnej korespondencji.
     - listy_seryjne()
 
+
     # Funkcja zliczająca pdfy i docx w foloderach, oraz ilość stron aby umożliwić
     weryfikację wysłanej poczty przez kancelarię z fakturą z Poczty Polskiej.
     - pdf_docx_counter()
+    <img width="1317" alt="Zrzut ekranu 2024-04-25 o 13 25 02" src="https://github.com/dziadekGIT/US_skrypty/assets/53622677/696c716c-f022-4ce3-a84c-f7c317c74fe5">
     
     # Webscrapping i wyszukiwanie słowa "kierownik" na stronie www.
     Nie pamiętam po co taki cyrk, ale może się przydać jako podgląd webscrappingu 
